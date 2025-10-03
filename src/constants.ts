@@ -87,4 +87,11 @@ export const LABELS: Label[] = [
       { lang: 'en', name: 'The Tortured Poets Department 📚', description: 'The Tortured Poets Department'},
     ]
   },
+  {
+    rkey: '3m2bf3j5tsm2f',
+    identifier: 'tloas',
+    locales: [
+      { lang: 'en', name: 'The Life of a Showgirl 👯‍♀️', description: 'The Life of a Showgirl'},
+    ]
+  },
 ];
